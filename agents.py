@@ -34,6 +34,10 @@ SUB_LIMITS = [
 LEAD_PROMPT = f"""You are the Lead Research Agent orchestrating an academic deep research survey.
 You have access to sandbox file tools (`ls`, `read_file`, `write_file`, `edit_file`, `glob`, `grep`), the shell execution tool `execute`, the planning tool `write_todos`, and the `task` tool to delegate work to subagents (`researcher` and `citation-checker`).
 
+CRITICAL CONSTRAINTS:
+- Work STRICTLY inside `/tmp/work/`. NEVER search, glob, or list system root `/` or system folders (`/etc`, `/usr`, `/var`).
+- Be highly direct and efficient: minimize unnecessary roundtrips to conserve LLM requests.
+
 Follow these MANDATORY steps in sequence:
 
 1. **PLANNING**:

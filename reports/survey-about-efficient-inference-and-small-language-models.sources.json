@@ -1,0 +1,66 @@
+[
+  {
+    "n": 1,
+    "id": "thinkslm-survey",
+    "url": "https://example.com/thinkslm-benchmark",
+    "title": "ThinkSLM: A Systematic Evaluation Benchmark for Reasoning Capabilities",
+    "date": "2025-01-01",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2411.13676",
+    "url": "https://huggingface.co/papers/2411.13676",
+    "title": "Hymba: A Hybrid-head Architecture for Small Language Models",
+    "date": "2024-11-20",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2405.21060",
+    "url": "https://huggingface.co/papers/2405.21060",
+    "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "date": "2024-05-31",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2609.27581",
+    "url": "https://arxiv.org/abs/2609.27581",
+    "title": "Does Step Law Transfer to Small-Scale Language Models? An Empirical Recalibration Below 59M Parameters",
+    "date": "2026-09-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "slm-bench-framework",
+    "url": "https://example.com/slm-bench-metrics",
+    "title": "SLM-Bench: Measuring Accuracy, Efficiency, and Sustainability",
+    "date": "2025-02-15",
+    "source": "web"
+  },
+  {
+    "n": 6,
+    "id": "2610.08540",
+    "url": "https://arxiv.org/abs/2610.08540",
+    "title": "Toward Alignment Scaling Laws: A Framework and First Preregistered Measurements",
+    "date": "2026-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 7,
+    "id": "2609.12303",
+    "url": "https://arxiv.org/abs/2609.12303",
+    "title": "Breaking the Token Ceiling: Distilling Smaller, Stronger Byte Models",
+    "date": "2026-09-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2604.24809",
+    "url": "https://huggingface.co/papers/2604.24809",
+    "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
+    "date": "2026-04-27",
+    "source": "hf-search"
+  }
+]

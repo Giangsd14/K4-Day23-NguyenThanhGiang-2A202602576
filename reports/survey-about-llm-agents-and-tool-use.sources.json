@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2609.22712",
+    "url": "https://arxiv.org/abs/2609.22712",
+    "title": "Trustworthy Agentic AI: Failure Modes, Mitigation Strategies, and a Lifecycle Framework for Autonomous LLM Systems",
+    "date": "2026-09-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2409.11393",
+    "url": "https://huggingface.co/papers/2409.11393",
+    "title": "LLM-Agent-UMF: LLM-based Agent Unified Modeling Framework for Seamless Integration of Multi Active/Passive Core-Agents",
+    "date": "2024-09-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2610.11794",
+    "url": "https://huggingface.co/papers/2610.11794",
+    "title": "Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 4,
+    "id": "2606.24937",
+    "url": "https://arxiv.org/abs/2606.24937",
+    "title": "The Hitchhiker's Guide to Agentic AI: From Foundations to Systems",
+    "date": "2026-06-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2608.08413",
+    "url": "https://arxiv.org/abs/2608.08413",
+    "title": "Tangent: An Empirical Study of Testing Practices for LLM-Based Agent Applications",
+    "date": "2026-08-09",
+    "source": "arxiv"
+  }
+]

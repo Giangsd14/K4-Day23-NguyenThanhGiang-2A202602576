@@ -1,0 +1,42 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12453",
+    "url": "https://arxiv.org/abs/2610.12453",
+    "title": "Mental-Models for Multi-Agent Systems",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12449",
+    "url": "https://arxiv.org/abs/2610.12449",
+    "title": "Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2610.12417",
+    "url": "https://arxiv.org/abs/2610.12417",
+    "title": "WOVEN: Weaving Visual World Modeling into Multimodal LLMs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "id": "hf_video_ring",
+    "url": "https://huggingface.co/papers/2402.08268",
+    "title": "World Model on Million-Length Video And Language With RingAttention",
+    "date": "2024-02-13",
+    "source": "hf-search",
+    "n": 4
+  },
+  {
+    "id": "hf_daily_video",
+    "url": "https://huggingface.co/papers/2401.03403",
+    "title": "Video Generation Models as World Simulators: Architecture and Dynamics",
+    "date": "2024-01-15",
+    "source": "hf-daily",
+    "n": 5
+  }
+]

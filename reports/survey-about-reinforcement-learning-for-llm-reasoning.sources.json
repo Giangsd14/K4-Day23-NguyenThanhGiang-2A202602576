@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2608.27046",
+    "url": "https://arxiv.org/abs/2608.27046",
+    "title": "Performance Foundations of Parallel & Distributed Reasoning Language Models",
+    "date": "2026-08-27",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2404.01617",
+    "url": "https://huggingface.co/papers/2404.01617",
+    "title": "LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models",
+    "date": "2024-04-02",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2605.11978",
+    "url": "https://arxiv.org/abs/2605.11978",
+    "title": "On Predicting the Post-training Potential of Pre-trained LLMs",
+    "date": "2026-05-12",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2604.17312",
+    "url": "https://arxiv.org/abs/2604.17312",
+    "title": "A Survey of Reinforcement Learning for Large Language Models under Data Scarcity: Challenges and Solutions",
+    "date": "2026-04-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2511.14460",
+    "url": "https://huggingface.co/papers/2511.14460",
+    "title": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning",
+    "date": "2025-11-18",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2610.11959",
+    "url": "https://huggingface.co/papers/2610.11959",
+    "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2610.12183",
+    "url": "https://huggingface.co/papers/2610.12183",
+    "title": "A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]
